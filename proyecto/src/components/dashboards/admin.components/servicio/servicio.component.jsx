@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import styles from "./servicio.module.css";
 import { API_BASE_URL } from "../../../../main";
-import Header from "../../../header/Header.component";
+import Header from "../../../header/header.component";
 
 const ServicesList = () => {
     const [services, setServices] = useState([]);

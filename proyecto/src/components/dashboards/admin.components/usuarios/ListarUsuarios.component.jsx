@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { API_BASE_URL } from "../../../../main";
 import styles from "./listarUsuario.module.css";
-import Header from "../../../header/Header.component";
+import Header from "../../../header/header.component";
 import { Link } from "react-router-dom";
 
 const UsersList = () => {
