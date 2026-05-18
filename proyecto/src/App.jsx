@@ -8,13 +8,13 @@ import AdminDashboard from "./components/dashboards/AdminDashboard";
 
 import ListarUsuarios from "./components/dashboards/admin.components/usuarios/ListarUsuarios.component";
 import RegisterEmpleado from "./components/dashboards/admin.components/usuarios/function/nuevoEmplaedo/registerEmpleado.component";
-import Calendario from "./components/dashboards/admin.components/calendario/Calendario.component";
-import Servicio from "./components/dashboards/admin.components/servicio/Servicio.component";
-import Reseña from "./components/dashboards/admin.components/reseñas/Reseña.component";
+import Calendario from "./components/dashboards/admin.components/calendario/calendario.component";
+import Servicio from "./components/dashboards/admin.components/servicio/servicio.component";
+import Reseña from "./components/dashboards/admin.components/reseñas/reseña.component";
 
 import Citas from "./components/dashboards/empleado.components/citas/empleado.component";
 
-import Historial from "./components/dashboards/cliente.component/historial/Historial.component";
+import Historial from "./components/dashboards/cliente.component/historial/historial.component";
 import Pago from "./components/dashboards/cliente.component/pago/pago.component";
 import Reserva from "./components/dashboards/cliente.component/reserva/reserva.component";
 
